@@ -2,7 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Also has following solana web3 packages installed:
+These Repo has Solana Labs Packages installed from this link:
+https://github.com/solana-labs/wallet-adapter
+
+So it has following solana web3 packages installed:
 
     "@solana/wallet-adapter-base": "^0.9.22",
     "@solana/wallet-adapter-react": "^0.15.30",
